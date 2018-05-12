@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Daniel_Defoe
     - http://www.gutenberg.org/browse/authors/j#a26500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30159#The-True-Born-EnglishmanA-Satire
 gutenberg_issued: '2009-10-02'
 gutenberg_type: Text
 identifiers:
